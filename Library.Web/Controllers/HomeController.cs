@@ -6,6 +6,7 @@ namespace Library.Web.Controllers
     {
         public IActionResult Index()
         {
+            //This is the Home Controller
             return View();
         }
     }
